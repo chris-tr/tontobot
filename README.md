@@ -11,4 +11,4 @@ A very dumb IRC bot meant for users of Freenode/#GULTec.
 * `!last <n>`: Get the last `n` URLs' metadata (URL, title, user, timestamp).
 * `!masca`: Quote **Masca**.
 * `!ping`: Echo a response.
-* `!rtfm [section] <COMMAND>`: Print the man page for <COMMAND>. 
+* `!rtfm [section] <COMMAND>`: Print the man page for &lt;COMMAND&gt;. 
